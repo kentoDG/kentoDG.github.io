@@ -6,7 +6,7 @@
   <link href="https://kentodg.github.io/atom.xml" rel="self"/>
   
   <link href="https://kentodg.github.io/"/>
-  <updated>2021-08-20T08:51:19.962Z</updated>
+  <updated>2021-08-25T09:32:29.578Z</updated>
   <id>https://kentodg.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://kentodg.github.io/2021/33JGSDR/"/>
     <id>https://kentodg.github.io/2021/33JGSDR/</id>
     <published>2021-08-20T07:40:43.000Z</published>
-    <updated>2021-08-20T08:51:19.962Z</updated>
+    <updated>2021-08-25T09:32:29.578Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;Hexo-相关教程&quot;&gt;&lt;a href=&quot;#Hexo-相关教程&quot; class=&quot;headerlink&quot; title=&quot;Hexo 相关教程&quot;&gt;&lt;/a&gt;Hexo 相关教程&lt;/h3&gt;&lt;ul&gt;
@@ -31,8 +31,15 @@
 &lt;h3 id=&quot;Markdown-语法教程&quot;&gt;&lt;a href=&quot;#Markdown-语法教程&quot; class=&quot;headerlink&quot; title=&quot;Markdown 语法教程&quot;&gt;&lt;/a&gt;Markdown 语法教程&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://markdown.com.cn/&quot;&gt;Markdown 语法教程&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&quot;阿里云安装nvm&quot;&gt;&lt;a href=&quot;#阿里云安装nvm&quot; class=&quot;headerlink&quot; title=&quot;阿里云安装nvm&quot;&gt;&lt;/a&gt;阿里云安装nvm&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.cn/post/6999533892700995620&quot;&gt;阿里云安装nvm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&quot;Nginx-相关&quot;&gt;&lt;a href=&quot;#Nginx-相关&quot; class=&quot;headerlink&quot; title=&quot;Nginx 相关&quot;&gt;&lt;/a&gt;Nginx 相关&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/jake_tian/article/details/104878737&quot;&gt;Ngin系列教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/jake_tian/article/details/104878737&quot;&gt;Nginx系列教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/justinqin/article/details/119519019&quot;&gt;Nginx正向代理，反向代理，负载均衡&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.jianshu.com/p/c1ce9eec5fb2&quot;&gt;Linux彻底卸载Nginx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/wang_xiaowang/article/details/105823536&quot;&gt;阿里云Linux下nginx安装配置(详细教程)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/362315737&quot;&gt;nginx学习，看这一篇就够了!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</summary>
     
     
